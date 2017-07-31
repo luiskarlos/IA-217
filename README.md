@@ -5,7 +5,7 @@
   * Definición de inteligencia
   * Definición de inteligencia artificial
   * Problemas que ataca la IA
-# AI-117
+
 ## Semana 2
 1. [Presentacion](https://docs.google.com/presentation/d/11i6612LD3kZkCb0NulPNPO9mUONOtVYpLT8HWUUH2Zo/edit?usp=sharing)
  
