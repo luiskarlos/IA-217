@@ -7,5 +7,8 @@
   * Problemas que ataca la IA
 
 ## Semana 2
-1. [Presentacion](https://docs.google.com/presentation/d/11i6612LD3kZkCb0NulPNPO9mUONOtVYpLT8HWUUH2Zo/edit?usp=sharing)
+1. [Presentacion Agentes](https://docs.google.com/presentation/d/11i6612LD3kZkCb0NulPNPO9mUONOtVYpLT8HWUUH2Zo/edit?usp=sharing)
+
+## Semana 3
+1. [Presentacion Agentes Continuacion](https://docs.google.com/presentation/d/1JPrkiH9_hNFdsZbc6EFGKr-Kp12oYVafG7Wl-oERHec/edit?usp=sharing)
  
