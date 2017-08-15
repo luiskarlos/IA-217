@@ -15,6 +15,6 @@
 ## Semana 4
 1. [Presentacion Agentes Continuacion](https://docs.google.com/presentation/d/14Pl_-7M2Naqi7eJzLXQ5Clz7kiqFELoCSMzyPZRNzVM/edit?usp=sharing)
 2. Quiz 2 Semana 4
-  * [Resultados](https://github.com/luiskarlos/IA-217/blob/master/evaluaciones/quices/quiz-Quiz2Semana3-full.csv)
+  * [Resultados](https://github.com/luiskarlos/IA-217/blob/master/evaluaciones/quices/quiz-Quiz2Semana4-full.csv)
   * [Respuestas](https://docs.google.com/document/d/1UEkiH2Ye28hX4jomJlfR1ASq60LrLiLC3kwqyCC167k/edit?usp=sharing)
  
