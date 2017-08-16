@@ -1,0 +1,51 @@
+Key Version: A
+
+1 - Taxi Driving:
+  A : Fully Multi Stochastic Sequential Dynamic Continuous
+ ✅B : Partially Multi Stochastic Sequential Dynamic Continuous
+  C : Partially Multi Deterministic Sequential Dynamic Continuous
+  D : Fully Multi Stochastic Sequential Dynamic Discrete
+  E : Ninguna de las anteriores 
+                               1   ⚪  ⚫  ⚪  ⚪  ⚪
+
+2 - Crossword Puzzle is:
+ ✅A : Fully Single Deterministic Sequential Static Discrete
+  B : Fully Single Deterministic Sequential Static Continuous
+  C : Partially Single Stochastic Episodic Static Discrete
+  D : Partially Single Stochastic Sequential Dynamic Discrete
+  E : Ninguna de las anteriores 
+                               2   ⚫  ⚪  ⚪  ⚪  ⚪
+
+3 - El trabajo de la IA es diseñar el programa del agente que implementa la función de mapeo de las percepciones a las acciones
+ ✅A : Verdadero
+  B : Falso 
+                               3   ⚫  ⚪
+
+4 - El mundo real es:
+  A : Statico
+ ✅B : Parcialmente observable
+ ✅C : Continuo
+ ✅D : Dinámico
+  E : Ninguna de las anteriores 
+                               4   ⚪  ⚫  ⚫  ⚫  ⚪
+
+5 - Tipos de Agente:
+  A : Pasivo
+ ✅B : Por objetivo
+ ✅C : Utility-based
+ ✅D : Reactivo con modelo
+  E : Ninguna de las anteriores 
+                               5   ⚪  ⚫  ⚫  ⚫  ⚪
+
+
+Key Version: A
+
+1 ⚪  ⚫  ⚪  ⚪  ⚪
+
+2 ⚫  ⚪  ⚪  ⚪  ⚪
+
+3 ⚫  ⚪
+
+4 ⚪  ⚫  ⚫  ⚫  ⚪
+
+5 ⚪  ⚫  ⚫  ⚫  ⚪
