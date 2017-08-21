@@ -18,3 +18,6 @@
   * [Resultados](https://github.com/luiskarlos/IA-217/blob/master/evaluaciones/quices/quiz-Quiz2Semana4-full.csv)
   * [Respuestas](https://docs.google.com/document/d/1UEkiH2Ye28hX4jomJlfR1ASq60LrLiLC3kwqyCC167k/edit?usp=sharing)
  
+
+## Semana 5
+1. [Presentacion Busquedas](https://docs.google.com/presentation/d/1MiNix5OxsSW0JAQdRzAl1ximJTVaE2k7mSbMjJdwzjs/edit?usp=sharing)
