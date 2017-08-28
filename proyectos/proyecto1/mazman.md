@@ -9,7 +9,7 @@
    * Encontrar X cosa y salir
    * ???
    
-## Mounstros
+## Monstruo
  * LeftEye capaza de navegar todo el laberinto pero solo hacia la izquierda
    * Ataca todo lo que se mueve
    * Camina durante N ciclos y descancansa N ciclos
@@ -27,4 +27,4 @@
 
 ## TODO
 
- * Determinar como es la interaccion entre el jugador y los mounstros
+ * Determinar como es la interaccion entre el jugador y los otros agentes
