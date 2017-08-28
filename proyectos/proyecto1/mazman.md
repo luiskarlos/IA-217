@@ -1,6 +1,6 @@
 
 
-Ambiente
+## Ambiente
  * Laberinto
    * [Generador](https://www.vidarholen.net/cgi-bin/labyrinth)
      * Modificarlo para que tengan espacios abiertos
@@ -8,7 +8,8 @@ Ambiente
    * Salir del laberinto
    * Encontrar X cosa y salir
    * ???
-Mounstros
+   
+## Mounstros
  * LeftEye capaza de navegar todo el laberinto pero solo hacia la izquierda
    * Ataca todo lo que se mueve
    * Camina durante N ciclos y descancansa N ciclos
@@ -24,5 +25,6 @@ Mounstros
  * Guardia
    * Se mueve hacia puntos de control donde espera N ciclos y luego continua
 
-* TODO
-Determinar como es la interaccion entre el jugador y los mounstros
+## TODO
+
+ * Determinar como es la interaccion entre el jugador y los mounstros
