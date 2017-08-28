@@ -2,7 +2,7 @@
 
 ## Ambiente
  * Laberinto
-   * [Generador](https://www.vidarholen.net/cgi-bin/labyrinth)
+   * [Generador](http://www.delorie.com/game-room/mazes/genmaze.cgi)
      * Modificarlo para que tengan espacios abiertos
  * Objetivo del juego: (Que les parece)
    * Salir del laberinto
