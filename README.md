@@ -21,3 +21,6 @@
 
 ## Semana 5
 1. [Presentacion Busquedas](https://docs.google.com/presentation/d/1MiNix5OxsSW0JAQdRzAl1ximJTVaE2k7mSbMjJdwzjs/edit?usp=sharing)
+
+## Semana 6
+1. [Presentacion EventBus and FSM](https://docs.google.com/presentation/d/1kfhxRfBjKk2Kt_UZzK2veMzkNXnPpIiMPXbptEhSGIg/edit?usp=sharing)
