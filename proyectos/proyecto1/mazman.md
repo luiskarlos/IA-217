@@ -48,11 +48,11 @@ Estos costos deben ser considerados por los algoritmos de busqueda que puedan ha
 #### Mapa expandido:
                                                                  
            111                         111                       
-          12222111                     1**2**1                       
-          12**3**23221                     111                            
-          12223**3**21                                                
+          12222111                     121                       
+          12323221                     111                            
+          12223321                                                
           11123221                           111                 
-              1111                           1**2**1                  
+              1111                           121                  
                                              111                 
 
 
