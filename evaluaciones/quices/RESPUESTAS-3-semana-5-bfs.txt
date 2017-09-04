@@ -1,0 +1,213 @@
+Key Version: A
+
+1 - Marque los algoritmos que utilizan una cola tipo LIFO
+  A : UCS
+  B : BFS
+ ✅C : DFS
+  D : GBFS
+  E : A* 
+                               1   ⚪  ⚪  ⚫  ⚪  ⚪
+
+2 - BFS el orden de visita para el siguiente arbol es:
+  A : 2, 5, 7, 9, 6, 2, 4, 11, 5
+  B : 2, 7, 2, 6, 5, 11, 5, 9, 4
+  C : 2, 5, 9, 4, 7, 6, 11, 5, 2
+ ✅D : 2, 7, 5, 2, 6, 9, 5, 11, 4 
+                               2   ⚪  ⚪  ⚪  ⚫
+
+3 - Marque los algoritmos que usan una cola de prioridad
+  A : DFS
+ ✅B : A*
+ ✅C : UCS
+  D : BFS
+  E : GBFS 
+                               3   ⚪  ⚫  ⚫  ⚪  ⚪
+
+4 - Problem-Solving Agent.
+  El estado se refiera a un sub-grupo de posibles estados reales
+ ✅A : verdadero
+  B : falso 
+                               4   ⚫  ⚪
+
+5 - D * (dx + dy) aplica a
+  A : Euclidean distance
+  B : Euclidean distance, squared
+ ✅C : Manhattan distance
+  D : Diagonal distance 
+                               5   ⚪  ⚪  ⚫  ⚪
+
+6 - Los algoritmos de busqueda siempre encuentran una solucion
+ ✅A : false
+  B : verdadero 
+                               6   ⚫  ⚪
+
+7 - Cuales de los siguientes frases son beneficios de la composicion
+  A : Regenerar todas las clases que contienen componentes
+  B : Utiliza metodos tipo forwarding
+  C : Es facil reutilizar metodos
+ ✅D : Diseño altamente flexible
+ ✅E : El diseño inicial se simplifica 
+                               7   ⚪  ⚪  ⚪  ⚫  ⚫
+
+
+Key Version: A
+
+1 ⚪  ⚪  ⚫  ⚪  ⚪
+
+2 ⚪  ⚪  ⚪  ⚫
+
+3 ⚪  ⚪  ⚫  ⚪  ⚪
+
+4 ⚫  ⚪
+
+5 ⚪  ⚪  ⚫  ⚪
+
+6 ⚫  ⚪
+
+7 ⚪  ⚪  ⚪  ⚫  ⚫
+
+
+----------------------------------------------------
+
+Key Version: B
+
+1 - D * (dx + dy) aplica a
+  A : Euclidean distance, squared
+  B : Diagonal distance
+  C : Euclidean distance
+ ✅D : Manhattan distance 
+                               1   ⚪  ⚪  ⚪  ⚫
+
+2 - BFS el orden de visita para el siguiente arbol es:
+  A : 2, 7, 2, 6, 5, 11, 5, 9, 4
+  B : 2, 5, 9, 4, 7, 6, 11, 5, 2
+  C : 2, 5, 7, 9, 6, 2, 4, 11, 5
+ ✅D : 2, 7, 5, 2, 6, 9, 5, 11, 4 
+                               2   ⚪  ⚪  ⚪  ⚫
+
+3 - Cuales de los siguientes frases son beneficios de la composicion
+ ✅A : Diseño altamente flexible
+  B : Regenerar todas las clases que contienen componentes
+  C : Es facil reutilizar metodos
+  D : Utiliza metodos tipo forwarding
+ ✅E : El diseño inicial se simplifica 
+                               3   ⚫  ⚪  ⚪  ⚪  ⚫
+
+4 - Marque los algoritmos que utilizan una cola tipo LIFO
+  A : GBFS
+ ✅B : DFS
+  C : UCS
+  D : BFS
+  E : A* 
+                               4   ⚪  ⚫  ⚪  ⚪  ⚪
+
+5 - Problem-Solving Agent.
+  El estado se refiera a un sub-grupo de posibles estados reales
+  A : falso
+ ✅B : verdadero 
+                               5   ⚪  ⚫
+
+6 - Marque los algoritmos que usan una cola de prioridad
+ ✅A : A*
+  B : DFS
+  C : GBFS
+ ✅D : UCS
+  E : BFS 
+                               6   ⚫  ⚪  ⚪  ⚫  ⚪
+
+7 - Los algoritmos de busqueda siempre encuentran una solucion
+  A : verdadero
+ ✅B : false 
+                               7   ⚪  ⚫
+
+
+Key Version: B
+
+1 ⚪  ⚪  ⚪  ⚫
+
+2 ⚪  ⚪  ⚪  ⚫
+
+3 ⚫  ⚪  ⚪  ⚪  ⚫
+
+4 ⚪  ⚫  ⚪  ⚪  ⚪
+
+5 ⚪  ⚫
+
+6 ⚪  ⚪  ⚪  ⚫  ⚪
+
+7 ⚪  ⚫
+
+
+----------------------------------------------------
+
+Key Version: C
+
+1 - BFS el orden de visita para el siguiente arbol es:
+  A : 2, 7, 2, 6, 5, 11, 5, 9, 4
+ ✅B : 2, 7, 5, 2, 6, 9, 5, 11, 4
+  C : 2, 5, 9, 4, 7, 6, 11, 5, 2
+  D : 2, 5, 7, 9, 6, 2, 4, 11, 5 
+                               1   ⚪  ⚫  ⚪  ⚪
+
+2 - Los algoritmos de busqueda siempre encuentran una solucion
+  A : verdadero
+ ✅B : false 
+                               2   ⚪  ⚫
+
+3 - Marque los algoritmos que usan una cola de prioridad
+  A : GBFS
+  B : DFS
+ ✅C : UCS
+ ✅D : A*
+  E : BFS 
+                               3   ⚪  ⚪  ⚫  ⚫  ⚪
+
+4 - Problem-Solving Agent.
+  El estado se refiera a un sub-grupo de posibles estados reales
+ ✅A : verdadero
+  B : falso 
+                               4   ⚫  ⚪
+
+5 - D * (dx + dy) aplica a
+  A : Euclidean distance, squared
+ ✅B : Manhattan distance
+  C : Diagonal distance
+  D : Euclidean distance 
+                               5   ⚪  ⚫  ⚪  ⚪
+
+6 - Cuales de los siguientes frases son beneficios de la composicion
+ ✅A : El diseño inicial se simplifica
+  B : Utiliza metodos tipo forwarding
+ ✅C : Diseño altamente flexible
+  D : Es facil reutilizar metodos
+  E : Regenerar todas las clases que contienen componentes 
+                               6   ⚫  ⚪  ⚫  ⚪  ⚪
+
+7 - Marque los algoritmos que utilizan una cola tipo LIFO
+ ✅A : DFS
+  B : A*
+  C : GBFS
+  D : UCS
+  E : BFS 
+                               7   ⚫  ⚪  ⚪  ⚪  ⚪
+
+
+Key Version: C
+
+1 ⚪  ⚫  ⚪  ⚪
+
+2 ⚪  ⚫
+
+3 ⚪  ⚪  ⚫  ⚪  ⚪
+
+4 ⚫  ⚪
+
+5 ⚪  ⚫  ⚪  ⚪
+
+6 ⚫  ⚪  ⚫  ⚪  ⚪
+
+7 ⚫  ⚪  ⚪  ⚪  ⚪
+
+
+----------------------------------------------------
+
