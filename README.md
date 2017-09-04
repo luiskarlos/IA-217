@@ -24,3 +24,7 @@
 
 ## Semana 6
 1. [Presentacion EventBus and FSM](https://docs.google.com/presentation/d/1kfhxRfBjKk2Kt_UZzK2veMzkNXnPpIiMPXbptEhSGIg/edit?usp=sharing)
+
+## Semana 7
+1. [Intro Redes Neuronales](https://docs.google.com/presentation/d/1AGbZPXRTxT8_iVY63XcvGgCuyK1qZYNk1FyLi_gMHEA/edit?usp=sharing)
+1. Libro de referencia: Make Your Own Neural Network
