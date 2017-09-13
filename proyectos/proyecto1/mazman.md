@@ -55,7 +55,7 @@ Estos costos deben ser considerados por los algoritmos de busqueda que puedan ha
               1111                           121                  
                                              111                 
 
-## Algortimos de busqueda a implementar
+## Algoritmos de busqueda a implementar
 
 1. BFS 
 2. DFS 
