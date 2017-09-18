@@ -28,3 +28,6 @@
 ## Semana 7
 1. [Intro Redes Neuronales](https://docs.google.com/presentation/d/1AGbZPXRTxT8_iVY63XcvGgCuyK1qZYNk1FyLi_gMHEA/edit?usp=sharing)
 1. Libro de referencia: Make Your Own Neural Network
+
+## Semana 8
+1. [Neural Nets - 1](https://docs.google.com/presentation/d/1DEu7GGSKXPK7uchE7nz1Kn5eUI1VJPAmjtcAWagVZuk/edit?usp=sharing)
