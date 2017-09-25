@@ -31,3 +31,8 @@
 
 ## Semana 8
 1. [Neural Nets - 1](https://docs.google.com/presentation/d/1DEu7GGSKXPK7uchE7nz1Kn5eUI1VJPAmjtcAWagVZuk/edit?usp=sharing)
+
+## Semana 9
+1. [Neural Nets - 2 - Backpropagation](https://docs.google.com/presentation/d/16cdNjJhwjsQiIibc0fsTwLg0j7K--6CPceVNLRXsUV0/edit?usp=sharing)
+1. [Implementacion en python Neural Net](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/part2_neural_network.ipynb)
+1. [Python Notebooks](http://jupyter.readthedocs.io/en/latest/install.html)
