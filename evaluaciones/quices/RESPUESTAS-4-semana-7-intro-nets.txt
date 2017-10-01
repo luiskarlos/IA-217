@@ -1,0 +1,92 @@
+Key Version: A
+
+1 - Learning rate se utiliza para:
+ ✅A : moderar
+  B : determinar que tan rapido iterar 
+                               1   ⚫  ⚪
+
+2 - Prediccion simple
+  Debe iterarse hasta encontrar la solucion exacta
+ ✅A : falso
+  B : verdadero 
+                               2   ⚫  ⚪
+
+3 - Prediccion simple
+  Con los siguientes datos, calcule el valor de E (error):
+  Muestra   Medida1    Target
+      1       25       0.436332
+  C inicial = 0.4
+  incremente en -0.1 o 0.1 para ajustar segun sea mejor
+  A : 10 7.5 5
+  B : -0.03 0.06 -0.03
+  C : 24.16 24.06 23.96
+ ✅D : 9.56 7.06 4.56 
+                               3   ⚪  ⚪  ⚪  ⚫
+
+4 - Estimamos porque:
+  A : Es mas sencillo para la computadora
+ ✅B : No se puede calcular la formula
+ ✅C : El problema es complejo
+  D : Es mas rapido 
+                               4   ⚪  ⚫  ⚫  ⚪
+
+
+Key Version: A
+
+1 ⚫  ⚪
+
+2 ⚫  ⚪
+
+3 ⚪  ⚪  ⚪  ⚫
+
+4 ⚪  ⚫  ⚫  ⚪
+
+
+----------------------------------------------------
+
+Key Version: B
+
+1 - Learning rate se utiliza para:
+ ✅A : moderar
+  B : determinar que tan rapido iterar 
+                               1   ⚫  ⚪
+
+2 - Prediccion simple
+  Con los siguientes datos, calcule el valor de E (error):
+  Muestra   Medida1    Target
+      1       25       0.436332
+  C inicial = 0.4
+  incremente en -0.1 o 0.1 para ajustar segun sea mejor
+  A : 24.16 24.06 23.96
+ ✅B : 9.56 7.06 4.56
+  C : -0.03 0.06 -0.03
+  D : 10 7.5 5 
+                               2   ⚪  ⚫  ⚪  ⚪
+
+3 - Prediccion simple
+  Debe iterarse hasta encontrar la solucion exacta
+  A : verdadero
+ ✅B : falso 
+                               3   ⚪  ⚫
+
+4 - Estimamos porque:
+  A : Es mas rapido
+ ✅B : El problema es complejo
+ ✅C : No se puede calcular la formula
+  D : Es mas sencillo para la computadora 
+                               4   ⚪  ⚫  ⚫  ⚪
+
+
+Key Version: B
+
+1 ⚫  ⚪
+
+2 ⚪  ⚫  ⚪  ⚪
+
+3 ⚪  ⚫
+
+4 ⚪  ⚫  ⚫  ⚪
+
+
+----------------------------------------------------
+
