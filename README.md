@@ -36,3 +36,13 @@
 1. [Neural Nets - 2 - Backpropagation](https://docs.google.com/presentation/d/16cdNjJhwjsQiIibc0fsTwLg0j7K--6CPceVNLRXsUV0/edit?usp=sharing)
 1. [Implementacion en python Neural Net](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/blob/master/part2_neural_network.ipynb)
 1. [Python Notebooks](http://jupyter.readthedocs.io/en/latest/install.html)
+
+## Semana 10
+1. [Investigacion](https://github.com/luiskarlos/IA-217/blob/master/proyectos/investigacion.md)
+1. [Java 8 Streams: Why should you use them? Speed!](https://www.youtube.com/watch?v=A7PQohBzbQQ)
+1. [Stream Tutorial](https://www.mkyong.com/java8/java-8-streams-filter-examples/)
+1. Utilizando streams, procesos asynchronous y el archivo de [palabras](https://github.com/dwyl/english-words). Genere la siguiente informacion
+  * Cuente cuantas palabras, tiene los mismos charas en otras palabras: ejemplo casa esta contenida en carrosa
+  * Cuente cuantas palabras, son parte de otra palabra: ejemplo casa esta en carcasa
+  * Cuente cuantas plabras tienen igual sus silabas: ejemplo hola con ola = 2
+  
