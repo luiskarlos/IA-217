@@ -1,0 +1,212 @@
+Key Version: A
+
+1 - una libreria es un componente
+ ✅A : true
+  B : false 
+                               1   ⚫  ⚪
+
+2 - Los pesos de 0 cancelan el valor
+ ✅A : true
+  B : false 
+                               2   ⚫  ⚪
+
+3 - Como comprueba que la red neuronal tiene un nivel aceptable de clasificacion
+  A : el ouput hace match al 100% con el esperado
+  B : se comprueba que los pesos cambiaron a los desables
+  C : se utilizan parte de los datos conque se entreno
+ ✅D : se utilizan datos que no fueran parte del entrenamiento 
+                               3   ⚪  ⚪  ⚪  ⚫
+
+4 - una aplicacion monolitica pone toda la funcionalidad en:
+  A : en una sola base de datos
+ ✅B : un unico proceso
+  C : en un 
+                               4   ⚪  ⚫  ⚪
+
+5 - Cuando se diseñan microservices, compartir el mismo esquema/tablas de DB facilita:
+  A : El manejo de backups
+ ✅B : No se debe compartir
+  C : La consistencia de datos
+  D : El manejo de transacciones 
+                               5   ⚪  ⚫  ⚪  ⚪
+
+6 - El cambio en los pesos depende del gradiente en la funcion de activacion
+ ✅A : true
+  B : false 
+                               6   ⚫  ⚪
+
+7 - Los microservicios se dividen
+ ✅A : capacidades/funciones del negocio (ORDERS, SHIPPING, CATALOG)
+  B : capacidades/funciones del programa (UI, SERVER-SIDE, DB)
+  C : Como considere el negocio 
+                               7   ⚫  ⚪  ⚪
+
+8 - Los datos de entrada:
+ ✅A : se normalizan
+  B : se ordenan 
+                               8   ⚫  ⚪
+
+9 - Gradient descent siempre encuentra la mejor solucion
+ ✅A : false
+ B : true
+                               9   ⚪  ⚫
+
+10 - Los microservicios
+  A : se deben programar utilizando el mismo lenguaje de programacion
+ ✅B : son independientes
+  C : son independientes pero deben mantener una sola de DB para consistencia
+  D : se deben actualizar al mismo tiempo para evitar problemas de consistencia 
+                               10   ⚪  ⚫  ⚪  ⚪
+
+11 - Ventajas de un sistema monolitico
+ ✅A : simple
+ ✅B : inter module refactoring
+  C : disponibilidad
+  D : se pueden actualizar independientemente
+ ✅E : consistencia 
+                               11   ⚫  ⚫  ⚪  ⚪  ⚫
+
+12 - Ventajas de un microservicios
+ ✅A : se pueden actualizar independientemente
+  B : inter module refactoring
+ ✅C : disponibilidad
+  D : consistencia
+ ✅E : mantiene la modularidad 
+                               12   ⚫  ⚪  ⚫  ⚪  ⚫
+
+
+Key Version: A
+
+1 ⚫  ⚪
+
+2 ⚫  ⚪
+
+3 ⚪  ⚪  ⚪  ⚫
+
+4 ⚪  ⚫  ⚪
+
+5 ⚪  ⚫  ⚪  ⚪
+
+6 ⚫  ⚪
+
+7 ⚫  ⚪  ⚪
+
+8 ⚫  ⚪
+
+9 ⚫  ⚪  
+
+10 ⚪  ⚫  ⚪  ⚪
+
+11 ⚫  ⚫  ⚪  ⚪  ⚫
+
+12 ⚫  ⚪  ⚫  ⚪  ⚫
+
+
+----------------------------------------------------
+
+Key Version: B
+
+1 - Como comprueba que la red neuronal tiene un nivel aceptable de clasificacion
+  A : se utilizan parte de los datos conque se entreno
+ ✅B : se utilizan datos que no fueran parte del entrenamiento
+  C : el ouput hace match al 100% con el esperado
+  D : se comprueba que los pesos cambiaron a los desables 
+                               1   ⚪  ⚫  ⚪  ⚪
+
+2 - Ventajas de un microservicios
+  A : consistencia
+ ✅B : se pueden actualizar independientemente
+ ✅C : disponibilidad
+ ✅D : mantiene la modularidad
+  E : inter module refactoring 
+                               2   ⚪  ⚫  ⚫  ⚫  ⚪
+
+3 - Gradient descent siempre encuentra la mejor solucion
+ A : true
+ ✅B : false
+                               3   ⚫  ⚪
+
+4 - Los microservicios se dividen
+  A : capacidades/funciones del programa (UI, SERVER-SIDE, DB)
+ ✅B : capacidades/funciones del negocio (ORDERS, SHIPPING, CATALOG)
+  C : Como considere el negocio 
+                               4   ⚪  ⚫  ⚪
+
+5 - una libreria es un componente
+ ✅A : true
+  B : false 
+                               5   ⚫  ⚪
+
+6 - El cambio en los pesos depende del gradiente en la funcion de activacion
+  A : false
+ ✅B : true 
+                               6   ⚪  ⚫
+
+7 - una aplicacion monolitica pone toda la funcionalidad en:
+  A : en una sola base de datos
+  B : en un
+ ✅C : un unico proceso 
+                               7   ⚪  ⚪  ⚫
+
+8 - Ventajas de un sistema monolitico
+ ✅A : simple
+ ✅B : inter module refactoring
+  C : se pueden actualizar independientemente
+ ✅D : consistencia
+  E : disponibilidad 
+                               8   ⚫  ⚫  ⚪  ⚫  ⚪
+
+9 - Los pesos de 0 cancelan el valor
+ ✅A : true
+  B : false 
+                               9   ⚫  ⚪
+
+10 - Cuando se diseñan microservices, compartir el mismo esquema/tablas de DB facilita:
+  A : La consistencia de datos
+ ✅B : No se debe compartir
+  C : El manejo de transacciones
+  D : El manejo de backups 
+                               10   ⚪  ⚫  ⚪  ⚪
+
+11 - Los datos de entrada:
+ ✅A : se normalizan
+  B : se ordenan 
+                               11   ⚫  ⚪
+
+12 - Los microservicios
+  A : se deben programar utilizando el mismo lenguaje de programacion
+  B : son independientes pero deben mantener una sola de DB para consistencia
+ ✅C : son independientes
+  D : se deben actualizar al mismo tiempo para evitar problemas de consistencia 
+                               12   ⚪  ⚪  ⚫  ⚪
+
+
+Key Version: B
+
+1 ⚪  ⚫  ⚪  ⚪
+
+2 ⚪  ⚫  ⚫  ⚫  ⚪
+
+3 ⚪  ⚫
+
+4 ⚪  ⚫  ⚪
+
+5 ⚫  ⚪
+
+6 ⚪  ⚫
+
+7 ⚪  ⚪  ⚫
+
+8 ⚫  ⚫  ⚪  ⚫  ⚪
+
+9 ⚫  ⚪
+
+10 ⚪  ⚫  ⚪  ⚪
+
+11 ⚫  ⚪
+
+12 ⚪  ⚪  ⚫  ⚪
+
+
+----------------------------------------------------
+
