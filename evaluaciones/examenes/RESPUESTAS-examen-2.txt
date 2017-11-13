@@ -1,0 +1,507 @@
+Key Version: A
+
+1 - La red neuronal aprende modificando los pesos entre las conexiones de un layer a otro
+  A : modificando los que pasan etre cada neurona
+ ✅B : modificando los pesos de las conexiones 
+                               1   ⚪  ⚫
+
+2 - La funcion de activacion sigmoid es:
+  A : 1 (1 / (1 + e/x)
+  B : 1 (1 / (1 + e*x)
+  C : 1 (1 / (1 + e-x)
+ ✅D : 1 (1 / (1 + e^x) 
+                               2   ⚪  ⚪  ⚪  ⚫
+
+3 - Los pesos de las conexiones en una RN siempre se ajustan con cada dato de entrada
+  A : false
+ ✅B : true 
+                               3   ⚪  ⚫
+
+4 - El target en una RN:
+  A : se calcula utilizando los features de cada registro
+ ✅B : es dado por el problema 
+                               4   ⚪  ⚫
+
+5 - Los valores iniciales para los pesos deben estar entre:
+  A : [-1, 0] and [0, 1]
+ ✅B : ]-1, 0[ and ]0, 1[
+  C : [-1, 1]
+  D : ]-1, 1[ 
+                               5   ⚪  ⚫  ⚪  ⚪
+
+6 - Para determinar el procentaje de exito de una RN
+  A : Se utilza un % de los datos de entrada, utilizados en el entranamiento
+ ✅B : Se utilza un % de los datos de entrada, no utilizados en el entranamiento
+  C : Se utilzan todos los datos utilizados en el entranamiento 
+                               6   ⚪  ⚫  ⚪
+
+7 - La cantidad de neuronas del ouput layer:
+ ✅A : depende de la especificacion del problema
+  B : en proporcion a los features de entrada
+  C : en proporcion a las neuronas del hidden layer 
+                               7   ⚫  ⚪  ⚪
+
+8 - que funcion tiene el learning rate
+  A : controlar la velocidad con que los datos ingresan a la red
+ ✅B : mitigar los efectos de datos erroneos
+  C : evitar que la red se desborde por la funcion de activacion 
+                               8   ⚪  ⚫  ⚪
+
+9 - Efecto de la cantidad  de neuronas en el hidden layer
+ ✅A : Entre mas neurons mas lento aprende
+  B : Entre mas neurons mas rapido aprende
+  C : Entre mas neuronas menos datos se requieren
+ ✅D : Entre mas neuronas mas datos se requieren 
+                               9   ⚫  ⚪  ⚪  ⚫
+
+10 - Para propagar el error del output hacia el hidden layer se suma el error de cada uno
+ de los nodos a los que conecta la neurona del hidden layer
+ ✅A : true
+  B : false 
+                               10   ⚫  ⚪
+
+11 - A cuales de los siguientes layers se aplica la funcion de activacion:
+ ✅A : hidden
+ ✅B : output
+  C : input 
+                               11   ⚫  ⚫  ⚪
+
+12 - Input layer
+ ✅A : responsable de distribuir los datos de entrada
+  B : normaliza los datos
+  C : aplica el porcentaje de error a los datos de entrada 
+                               12   ⚫  ⚪  ⚪
+
+13 - Suponga que tienen una red neuronal con una configuracion de layers: 100, 1, 1
+  A : Ocupa pocos datos para aprender
+  B : Solo aprende una 1 combinacion
+ ✅C : No puede aprender 
+                               13   ⚪  ⚪  ⚫
+
+14 - Un porcentaje de exito de 94% en una RN indica que:
+ ✅A : depende del problema
+  B : la RN es confiable
+  C : Esta lista para trabajar 
+                               14   ⚫  ⚪  ⚪
+
+15 - a mayor learning rate
+  A : menor la cantiadd de datos analizados
+ ✅B : mayor la cantidad de datos requeridos
+  C : mayor la cantidad de datos analizados
+  D : menor la cantidad de datos requeridos 
+                               15   ⚪  ⚫  ⚪  ⚪
+
+16 - Un valor cercano a 0 en una conexion indica que:
+  A : tiene una influencia alta en el resultado
+ ✅B : tiene una influencia baja en el resultado
+  C : que contribuye mucho al error 
+                               16   ⚪  ⚫  ⚪
+
+17 - cuando el learning rate es 0
+  A : ningun dato es aceptado
+ ✅B : valor invalido
+  C : todos los datos son aceptados 
+                               17   ⚪  ⚫  ⚪
+
+18 - Para determinar el error se utiliza:
+  donde t es el target, x es el valor de entrada y y es un x - 1 (valor anterior de la entrada)
+  A : e = x - y
+  B : e = t - y
+  C : e = t - x
+ ✅D : e = t - o 
+                               18   ⚪  ⚪  ⚪  ⚫
+
+19 - La cantidad de neuronas del Hidden layer
+  A : se calcula tomando en cuenta la cantidad de datos de entrada
+ ✅B : se relacionada en forma directa a la cantidad de features de entrada 
+                               19   ⚪  ⚫
+
+20 - Gradient descent siempre encuentra la mejor solucion:
+  A : true
+ ✅B : false 
+                               20   ⚪  ⚫
+
+
+Key Version: A
+
+1 ⚪  ⚫
+
+2 ⚪  ⚪  ⚪  ⚫
+
+3 ⚪  ⚫
+
+4 ⚪  ⚫
+
+5 ⚪  ⚫  ⚪  ⚪
+
+6 ⚪  ⚫  ⚪
+
+7 ⚫  ⚪  ⚪
+
+8 ⚪  ⚫  ⚪
+
+9 ⚫  ⚪  ⚪  ⚫
+
+10 ⚫  ⚪
+
+11 ⚫  ⚫  ⚪
+
+12 ⚫  ⚪  ⚪
+
+13 ⚪  ⚪  ⚫
+
+14 ⚫  ⚪  ⚪
+
+15 ⚪  ⚫  ⚪  ⚪
+
+16 ⚪  ⚫  ⚪
+
+17 ⚪  ⚫  ⚪
+
+18 ⚪  ⚪  ⚪  ⚫
+
+19 ⚪  ⚫
+
+20 ⚪  ⚫
+
+
+----------------------------------------------------
+
+Key Version: B
+
+1 - Gradient descent siempre encuentra la mejor solucion:
+  A : true
+ ✅B : false 
+                               1   ⚪  ⚫
+
+2 - Para propagar el error del output hacia el hidden layer se suma el error de cada uno
+ de los nodos a los que conecta la neurona del hidden layer
+  A : false
+ ✅B : true 
+                               2   ⚪  ⚫
+
+3 - La cantidad de neuronas del Hidden layer
+  A : se calcula tomando en cuenta la cantidad de datos de entrada
+ ✅B : se relacionada en forma directa a la cantidad de features de entrada 
+                               3   ⚪  ⚫
+
+4 - Un valor cercano a 0 en una conexion indica que:
+  A : tiene una influencia alta en el resultado
+ ✅B : tiene una influencia baja en el resultado
+  C : que contribuye mucho al error 
+                               4   ⚪  ⚫  ⚪
+
+5 - Suponga que tienen una red neuronal con una configuracion de layers: 100, 1, 1
+  A : Solo aprende una 1 combinacion
+  B : Ocupa pocos datos para aprender
+ ✅C : No puede aprender 
+                               5   ⚪  ⚪  ⚫
+
+6 - A cuales de los siguientes layers se aplica la funcion de activacion:
+  A : input
+ ✅B : output
+ ✅C : hidden 
+                               6   ⚪  ⚫  ⚫
+
+7 - El target en una RN:
+  A : se calcula utilizando los features de cada registro
+ ✅B : es dado por el problema 
+                               7   ⚪  ⚫
+
+8 - Los valores iniciales para los pesos deben estar entre:
+ ✅A : ]-1, 0[ and ]0, 1[
+  B : ]-1, 1[
+  C : [-1, 1]
+  D : [-1, 0] and [0, 1] 
+                               8   ⚫  ⚪  ⚪  ⚪
+
+9 - La red neuronal aprende modificando los pesos entre las conexiones de un layer a otro
+  A : modificando los que pasan etre cada neurona
+ ✅B : modificando los pesos de las conexiones 
+                               9   ⚪  ⚫
+
+10 - Para determinar el procentaje de exito de una RN
+ ✅A : Se utilza un % de los datos de entrada, no utilizados en el entranamiento
+  B : Se utilza un % de los datos de entrada, utilizados en el entranamiento
+  C : Se utilzan todos los datos utilizados en el entranamiento 
+                               10   ⚫  ⚪  ⚪
+
+11 - Para determinar el error se utiliza:
+  donde t es el target, x es el valor de entrada y y es un x - 1 (valor anterior de la entrada)
+ ✅A : e = t - o
+  B : e = t - x
+  C : e = t - y
+  D : e = x - y 
+                               11   ⚫  ⚪  ⚪  ⚪
+
+12 - La cantidad de neuronas del ouput layer:
+ ✅A : depende de la especificacion del problema
+  B : en proporcion a los features de entrada
+  C : en proporcion a las neuronas del hidden layer 
+                               12   ⚫  ⚪  ⚪
+
+13 - Un porcentaje de exito de 94% en una RN indica que:
+ ✅A : depende del problema
+  B : la RN es confiable
+  C : Esta lista para trabajar 
+                               13   ⚫  ⚪  ⚪
+
+14 - Efecto de la cantidad  de neuronas en el hidden layer
+  A : Entre mas neurons mas rapido aprende
+  B : Entre mas neuronas menos datos se requieren
+ ✅C : Entre mas neuronas mas datos se requieren
+ ✅D : Entre mas neurons mas lento aprende 
+                               14   ⚪  ⚪  ⚫  ⚫
+
+15 - que funcion tiene el learning rate
+ ✅A : mitigar los efectos de datos erroneos
+  B : controlar la velocidad con que los datos ingresan a la red
+  C : evitar que la red se desborde por la funcion de activacion 
+                               15   ⚫  ⚪  ⚪
+
+16 - cuando el learning rate es 0
+  A : ningun dato es aceptado
+ ✅B : valor invalido
+  C : todos los datos son aceptados 
+                               16   ⚪  ⚫  ⚪
+
+17 - Los pesos de las conexiones en una RN siempre se ajustan con cada dato de entrada
+  A : false
+ ✅B : true 
+                               17   ⚪  ⚫
+
+18 - a mayor learning rate
+  A : mayor la cantidad de datos analizados
+  B : menor la cantiadd de datos analizados
+  C : menor la cantidad de datos requeridos
+ ✅D : mayor la cantidad de datos requeridos 
+                               18   ⚪  ⚪  ⚪  ⚫
+
+19 - La funcion de activacion sigmoid es:
+  A : 1 (1 / (1 + e-x)
+  B : 1 (1 / (1 + e/x)
+  C : 1 (1 / (1 + e*x)
+ ✅D : 1 (1 / (1 + e^x) 
+                               19   ⚪  ⚪  ⚪  ⚫
+
+20 - Input layer
+ ✅A : responsable de distribuir los datos de entrada
+  B : normaliza los datos
+  C : aplica el porcentaje de error a los datos de entrada 
+                               20   ⚫  ⚪  ⚪
+
+
+Key Version: B
+
+1 ⚪  ⚫
+
+2 ⚪  ⚫
+
+3 ⚪  ⚫
+
+4 ⚪  ⚫  ⚪
+
+5 ⚪  ⚪  ⚫
+
+6 ⚪  ⚫  ⚫
+
+7 ⚪  ⚫
+
+8 ⚫  ⚪  ⚪  ⚪
+
+9 ⚪  ⚫
+
+10 ⚫  ⚪  ⚪
+
+11 ⚫  ⚪  ⚪  ⚪
+
+12 ⚫  ⚪  ⚪
+
+13 ⚫  ⚪  ⚪
+
+14 ⚪  ⚪  ⚫  ⚫
+
+15 ⚫  ⚪  ⚪
+
+16 ⚪  ⚫  ⚪
+
+17 ⚪  ⚫
+
+18 ⚪  ⚪  ⚪  ⚫
+
+19 ⚪  ⚪  ⚪  ⚫
+
+20 ⚫  ⚪  ⚪
+
+
+----------------------------------------------------
+
+Key Version: C
+
+1 - La red neuronal aprende modificando los pesos entre las conexiones de un layer a otro
+  A : modificando los que pasan etre cada neurona
+ ✅B : modificando los pesos de las conexiones 
+                               1   ⚪  ⚫
+
+2 - a mayor learning rate
+ ✅A : mayor la cantidad de datos requeridos
+  B : menor la cantiadd de datos analizados
+  C : mayor la cantidad de datos analizados
+  D : menor la cantidad de datos requeridos 
+                               2   ⚫  ⚪  ⚪  ⚪
+
+3 - Efecto de la cantidad  de neuronas en el hidden layer
+ ✅A : Entre mas neuronas mas datos se requieren
+ ✅B : Entre mas neurons mas lento aprende
+  C : Entre mas neuronas menos datos se requieren
+  D : Entre mas neurons mas rapido aprende 
+                               3   ⚫  ⚫  ⚪  ⚪
+
+4 - El target en una RN:
+ ✅A : es dado por el problema
+  B : se calcula utilizando los features de cada registro 
+                               4   ⚫  ⚪
+
+5 - cuando el learning rate es 0
+ ✅A : valor invalido
+  B : ningun dato es aceptado
+  C : todos los datos son aceptados 
+                               5   ⚫  ⚪  ⚪
+
+6 - Input layer
+ ✅A : responsable de distribuir los datos de entrada
+  B : aplica el porcentaje de error a los datos de entrada
+  C : normaliza los datos 
+                               6   ⚫  ⚪  ⚪
+
+7 - Gradient descent siempre encuentra la mejor solucion:
+ ✅A : false
+  B : true 
+                               7   ⚫  ⚪
+
+8 - Para determinar el procentaje de exito de una RN
+  A : Se utilzan todos los datos utilizados en el entranamiento
+ ✅B : Se utilza un % de los datos de entrada, no utilizados en el entranamiento
+  C : Se utilza un % de los datos de entrada, utilizados en el entranamiento 
+                               8   ⚪  ⚫  ⚪
+
+9 - Para determinar el error se utiliza:
+  donde t es el target, x es el valor de entrada y y es un x - 1 (valor anterior de la entrada)
+ ✅A : e = t - o
+  B : e = t - y
+  C : e = x - y
+  D : e = t - x 
+                               9   ⚫  ⚪  ⚪  ⚪
+
+10 - Un valor cercano a 0 en una conexion indica que:
+  A : tiene una influencia alta en el resultado
+ ✅B : tiene una influencia baja en el resultado
+  C : que contribuye mucho al error 
+                               10   ⚪  ⚫  ⚪
+
+11 - Un porcentaje de exito de 94% en una RN indica que:
+ ✅A : depende del problema
+  B : la RN es confiable
+  C : Esta lista para trabajar 
+                               11   ⚫  ⚪  ⚪
+
+12 - Los valores iniciales para los pesos deben estar entre:
+  A : [-1, 0] and [0, 1]
+ ✅B : ]-1, 0[ and ]0, 1[
+  C : [-1, 1]
+  D : ]-1, 1[ 
+                               12   ⚪  ⚫  ⚪  ⚪
+
+13 - La funcion de activacion sigmoid es:
+  A : 1 (1 / (1 + e*x)
+ ✅B : 1 (1 / (1 + e^x)
+  C : 1 (1 / (1 + e/x)
+  D : 1 (1 / (1 + e-x) 
+                               13   ⚪  ⚫  ⚪  ⚪
+
+14 - La cantidad de neuronas del Hidden layer
+  A : se calcula tomando en cuenta la cantidad de datos de entrada
+ ✅B : se relacionada en forma directa a la cantidad de features de entrada 
+                               14   ⚪  ⚫
+
+15 - Suponga que tienen una red neuronal con una configuracion de layers: 100, 1, 1
+  A : Ocupa pocos datos para aprender
+ ✅B : No puede aprender
+  C : Solo aprende una 1 combinacion 
+                               15   ⚪  ⚫  ⚪
+
+16 - Los pesos de las conexiones en una RN siempre se ajustan con cada dato de entrada
+  A : false
+ ✅B : true 
+                               16   ⚪  ⚫
+
+17 - A cuales de los siguientes layers se aplica la funcion de activacion:
+ ✅A : hidden
+  B : input
+ ✅C : output 
+                               17   ⚫  ⚪  ⚫
+
+18 - Para propagar el error del output hacia el hidden layer se suma el error de cada uno
+ de los nodos a los que conecta la neurona del hidden layer
+  A : false
+ ✅B : true 
+                               18   ⚪  ⚫
+
+19 - que funcion tiene el learning rate
+  A : evitar que la red se desborde por la funcion de activacion
+  B : controlar la velocidad con que los datos ingresan a la red
+ ✅C : mitigar los efectos de datos erroneos 
+                               19   ⚪  ⚪  ⚫
+
+20 - La cantidad de neuronas del ouput layer:
+ ✅A : depende de la especificacion del problema
+  B : en proporcion a las neuronas del hidden layer
+  C : en proporcion a los features de entrada 
+                               20   ⚫  ⚪  ⚪
+
+
+Key Version: C
+
+1 ⚪  ⚫
+
+2 ⚫  ⚪  ⚪  ⚪
+
+3 ⚫  ⚫  ⚪  ⚪
+
+4 ⚫  ⚪
+
+5 ⚫  ⚪  ⚪
+
+6 ⚫  ⚪  ⚪
+
+7 ⚫  ⚪
+
+8 ⚪  ⚫  ⚪
+
+9 ⚫  ⚪  ⚪  ⚪
+
+10 ⚪  ⚫  ⚪
+
+11 ⚫  ⚪  ⚪
+
+12 ⚪  ⚫  ⚪  ⚪
+
+13 ⚪  ⚫  ⚪  ⚪
+
+14 ⚪  ⚫
+
+15 ⚪  ⚫  ⚪
+
+16 ⚪  ⚫
+
+17 ⚫  ⚪  ⚫
+
+18 ⚪  ⚫
+
+19 ⚪  ⚪  ⚫
+
+20 ⚫  ⚪  ⚪
+
+
+----------------------------------------------------
+
